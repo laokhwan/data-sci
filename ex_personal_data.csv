@@ -1,0 +1,11 @@
+name,email,phone,id_number,age,gender,city
+สมชาย,somchai@example.com,0812345678,1103701234567,28,Male,กรุงเทพ
+สมหญิง,somying@example.com,0823456789,1103701234568,34,Female,เชียงใหม่
+เกรียงไกร,kriangkrai@example.com,0834567890,1103701234569,45,Male,นครราชสีมา
+วิไล,wilai@example.com,0845678901,1103701234570,23,Female,ขอนแก่น
+นพดล,nopadol@example.com,0856789012,1103701234571,39,Male,สงขลา
+วรรณา,wan@example.com,0867890123,1103701234572,30,Female,ภูเก็ต
+ประทีป,prateep@example.com,0878901234,1103701234573,27,Male,นครปฐม
+มานี,manee@example.com,0889012345,1103701234574,50,Female,สุราษฎร์ธานี
+ดำรงค์,damrong@example.com,0890123456,1103701234575,33,Male,พิษณุโลก
+ราตรี,ratree@example.com,0801234567,1103701234576,41,Female,อุดรธานี

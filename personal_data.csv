@@ -1,11 +1,11 @@
-name,email,age,gender,city
-John Doe,john.doe@example.com,28,Male,New York
-Jane Smith,jane.smith@example.com,34,Female,Los Angeles
-Alice Johnson,alice.johnson@example.com,45,Female,Chicago
-Bob Brown,bob.brown@example.com,23,Male,Houston
-Carol White,carol.white@example.com,39,Female,Phoenix
-David Black,david.black@example.com,30,Male,Philadelphia
-Eva Green,eva.green@example.com,27,Female,San Antonio
-Frank Grey,frank.grey@example.com,50,Male,San Diego
-Grace Blue,grace.blue@example.com,33,Female,Dallas
-Henry Yellow,henry.yellow@example.com,41,Male,San Jose
+name,email,phone,age,gender,city
+John Doe,john.doe@example.com,123-456-7890,28,Male,New York
+Jane Smith,jane.smith@example.com,234-567-8901,34,Female,Los Angeles
+Alice Johnson,alice.johnson@example.com,345-678-9012,45,Female,Chicago
+Bob Brown,bob.brown@example.com,456-789-0123,23,Male,Houston
+Carol White,carol.white@example.com,567-890-1234,39,Female,Phoenix
+David Black,david.black@example.com,678-901-2345,30,Male,Philadelphia
+Eva Green,eva.green@example.com,789-012-3456,27,Female,San Antonio
+Frank Grey,frank.grey@example.com,890-123-4567,50,Male,San Diego
+Grace Blue,grace.blue@example.com,901-234-5678,33,Female,Dallas
+Henry Yellow,henry.yellow@example.com,012-345-6789,41,Male,San Jose
